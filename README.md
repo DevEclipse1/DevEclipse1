@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm dev_eclipse</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deveclipse1&label=Profile%20views&color=0e75b6&style=flat" alt="deveclipse1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deveclipse1" alt="deveclipse1" /></a> </p>
-
 - 📫 How to reach me **discord @dev_eclipse**
 
 <h3 align="left">Languages and Tools:</h3>

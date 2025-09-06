@@ -1,50 +1,49 @@
-# Welcome to DevEclipse's GitHub Profile! 👋
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-## About Me
+###
 
-Hi there! I'm DevEclipse, a passionate developer with a love for experimenting with various programming languages and creating unique projects. My diverse skill set includes proficiency in languages like C++, C#, Python, Lua, and more. With a total of 198 commits, I maintain an active coding habit and enjoy exploring different domains through my projects.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### Skills:
+###
 
-- **Languages:** C++, C#, Python, Lua
-- **Other Languages:** Javascript, Java, PHP
-- **Tools & Technologies:** Node.js, Express, Firebase, AWS
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-### Interests:
+###
 
-I enjoy building projects across multiple languages, tackling challenges in API integration, hacking tools, network utilities, firmware development, and emulation. I'm always looking to expand my programming knowledge and contribute to exciting projects.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-## GitHub Activity Analysis
+###
 
-### Overview:
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-- **Followers:** 13
-- **Joined GitHub:** 2022
+###
 
-### Projects:
+<br clear="both">
 
-- [**DeepCyd**](https://github.com/DevEclipse1/DeepCyd) - A project showcasing API integration
-- [**pi-kiboard**](https://github.com/DevEclipse1/pi-kiboard) - Experimenting with Python
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-### Contributions:
-
-I contribute to repositories like "Bruce" and "tinychip8," exploring firmware development and emulation. My proactive approach and diverse skill set reflect in my project contributions and commits.
-
----
-
-## Get in Touch
-
-📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/devEclipse/) or [Twitter](https://twitter.com/DevEclipse1)!
-
----
-
-## GitHub Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=DevEclipse1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevEclipse1)
-[![trophy](https://github-profile-trophy.vercel.app/?username=DevEclipse1)](https://github.com/DevEclipse1)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DevEclipse1)](https://git.io/streak-stats)
-
----
-
-### Thank You for Visiting! 🚀
+###

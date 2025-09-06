@@ -61,8 +61,8 @@ Interests: Embedded systems, electronics, microcontrollers, 3d printing, program
 
 ## Github Stats  
 <div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevEclipse1&show_icons=true&count_private=true&hide_border=true" style="width: 50%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEclipse1&hide_border=true&layout=compact" style="width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevEclipse1&show_icons=true&count_private=true&hide_border=true" style="width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEclipse1&hide_border=true&layout=compact" style="width: 45%;" />
 </div>
 
 <br/>  
